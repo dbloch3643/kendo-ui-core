@@ -24,6 +24,8 @@ How can I render a **Select All** option in the column menu of the Grid and show
 
 ## Solution
 
+This solution is out of data, please refer to this page https://www.telerik.com/forums/select-all-columnmenu-option-behaving-strange
+
 Render the checkbox within the `columnMenuInit` event of the Grid.
 
 > You will always need to have at least one visible column in the Grid.
